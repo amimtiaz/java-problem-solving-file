@@ -1,12 +1,15 @@
 package org.example;
 
+import java.util.Arrays;
+
 import static java.awt.SystemColor.text;
 
 public class Practice {
     public static void main(String[] args) {
 
-        String str = "    Hello, World!  ";
-        String trimmedStr = str.trim();
-        System.out.println(trimmedStr);
+        double number = 16.0;
+        double squareRoot = Math.sqrt(number);
+        System.out.println("Square root of " + number + " is: " + squareRoot);
+
     }
 }

@@ -5,6 +5,10 @@ import java.util.Scanner;
 // Problem: Write a Java program that calculates the factorial of a non-negative integer entered by the user.
 
 public class FactorialCalculator {
+
+    //Problem:
+    //Write a Java program that calculates the factorial of a given non-negative integer entered by the user.
+    // The factorial of a number n (denoted as n!) is the product of all positive integers less than or equal to n.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a non-negative integer: ");
