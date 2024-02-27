@@ -1,5 +1,3 @@
 <h1>I love to code</h1>
+![Blue and Black Modern Coding School Presentation](https://github.com/amimtiaz/java-problem-solving-file/assets/134070730/be34c0c5-4a84-47f7-bfb7-e6989b927e0f)
 
- 427662082_1453000732294335_985867779215336344_n.mp4…
-
-![rima](https://github.com/amimtiaz/java-problem-solving-file/assets/134070730/58625571-84b1-4896-bd60-5d82f4a09483)
