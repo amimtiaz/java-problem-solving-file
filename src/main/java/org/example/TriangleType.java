@@ -12,7 +12,7 @@ public class TriangleType {
         double side2 = scanner.nextDouble();
         double side3 = scanner.nextDouble();
 
-        if (side1 == side2 && side2 == side3){
+        if (side1 == side2 && side2 == side3) {
             System.out.println("Equilateral Triangle");
         } else if (side1 == side2 || side1 == side3 || side2 == side3) {
             System.out.println("Isosceles Triangle");
